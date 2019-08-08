@@ -1,20 +1,13 @@
 {
-  "name": "electron-quick-start",
+  "name": "react-electron-boilerplate",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A boilerplate for building desktop applications in Electron with React.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
-  ],
-  "author": "GitHub",
+  "repository": "",
+  "author": "Angela Cullen",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^6.0.1"
